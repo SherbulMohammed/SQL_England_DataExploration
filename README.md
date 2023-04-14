@@ -1,6 +1,6 @@
 # Project Overview 
 
-This project utilises SQL Server to explore statistics and match results from games from the FIFA World Cup 1930 - 2018. 
+**This project utilises SQL Server to explore statistics and match results from games from the FIFA World Cup 1930 - 2018.**
 
 *Before the data could be explored, some data cleaning had to be done*
 
